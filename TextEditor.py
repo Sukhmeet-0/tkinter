@@ -9,6 +9,7 @@ class textEditor:
                 self.textarea.insert(END,i)
 
 
+
     def __init__(self,master):
         self.master=master
         master.title("TextPad")
